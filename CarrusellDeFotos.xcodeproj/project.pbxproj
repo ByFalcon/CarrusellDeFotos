@@ -14,6 +14,7 @@
 		CE76092F221603E6004B710E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE76092D221603E6004B710E /* LaunchScreen.storyboard */; };
 		CE76093A221603E6004B710E /* CarrusellDeFotosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE760939221603E6004B710E /* CarrusellDeFotosTests.swift */; };
 		CE760945221603E6004B710E /* CarrusellDeFotosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE760944221603E6004B710E /* CarrusellDeFotosUITests.swift */; };
+		CEDFA512221616FB003531E8 /* celdaImagen.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDFA511221616FB003531E8 /* celdaImagen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		CE760940221603E6004B710E /* CarrusellDeFotosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CarrusellDeFotosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE760944221603E6004B710E /* CarrusellDeFotosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarrusellDeFotosUITests.swift; sourceTree = "<group>"; };
 		CE760946221603E6004B710E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEDFA511221616FB003531E8 /* celdaImagen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = celdaImagen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				CE760924221603E6004B710E /* AppDelegate.swift */,
 				CE760926221603E6004B710E /* ViewController.swift */,
+				CEDFA511221616FB003531E8 /* celdaImagen.swift */,
 				CE760928221603E6004B710E /* Main.storyboard */,
 				CE76092B221603E6004B710E /* Assets.xcassets */,
 				CE76092D221603E6004B710E /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE760927221603E6004B710E /* ViewController.swift in Sources */,
+				CEDFA512221616FB003531E8 /* celdaImagen.swift in Sources */,
 				CE760925221603E6004B710E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
